@@ -135,7 +135,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://notepad.vn/sinhnhatcuaVy2";
+            window.location = "https://bekhiem8tuoi.github.io/happybirthdaybeVy/";
           },
         });
       }
